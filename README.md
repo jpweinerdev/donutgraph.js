@@ -1,7 +1,9 @@
 # donutgraph.js
 Animated Donut Graph - jQuery plugin<br>
 build upon D3.js<br>
-![preview](https://github.com/jpweinerdev/donutgraph.js/blob/main/donutgraph.png)<br>
+
+## Intro
+![preview](https://github.com/jpweinerdev/donutgraph.js/blob/main/intro.png)<br>
 
 ## Demo
 
