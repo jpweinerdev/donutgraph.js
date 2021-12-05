@@ -18,7 +18,7 @@ text {
 	font-family: "Helvetica Neue", Helvetica, Arial,sans-serif;
 	font: 12px sans-serif;
 }
-
+```
 
 ## jQuery initialization and customization
 This plugin requires jQuery (>= 1.8.x) and D3.js (&gt;= v5.4.0)
